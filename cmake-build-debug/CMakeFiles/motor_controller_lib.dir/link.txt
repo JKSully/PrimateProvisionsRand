@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -g -shared -Wl,-soname,libmotor_controller_lib.so -o libmotor_controller_lib.so CMakeFiles/motor_controller_lib.dir/src/motor_controller.cpp.o CMakeFiles/motor_controller_lib.dir/src/random_motor_controller.cpp.o 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Primate_Provisions.dir/main.cpp.o -o Primate_Provisions  -Wl,-rpath,/home/jake/ZooFeeder/cmake-build-debug libmotor_controller_lib.so 
