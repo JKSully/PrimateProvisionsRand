@@ -1,4 +1,0 @@
-/home/jake/ZooFeeder/cmake-build-debug/CMakeFiles/motor_controller_lib.dir
-/home/jake/ZooFeeder/cmake-build-debug/CMakeFiles/Primate_Provisions.dir
-/home/jake/ZooFeeder/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/jake/ZooFeeder/cmake-build-debug/CMakeFiles/rebuild_cache.dir
